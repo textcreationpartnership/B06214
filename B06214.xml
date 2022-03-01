@@ -1,0 +1,796 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and exact list of the members of both houses of this present convocation, summon'd to meet on the sixth day of November, A.D. 1689. in the chapter-house at St. Paul's, and from thence adjourned to Henry the VII's chappel at Westminster, to the twentieth day of the same month.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06214</idno>
+            <idno type="STC">Wing T2436</idno>
+            <idno type="STC">ESTC R226521</idno>
+            <idno type="EEBO-CITATION">52529026</idno>
+            <idno type="OCLC">ocm 52529026</idno>
+            <idno type="VID">179146</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06214)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179146)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2778:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and exact list of the members of both houses of this present convocation, summon'd to meet on the sixth day of November, A.D. 1689. in the chapter-house at St. Paul's, and from thence adjourned to Henry the VII's chappel at Westminster, to the twentieth day of the same month.</title>
+                  <author>Chase, Jo.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benj. Tooke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Nov. 30. 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Jo. Chase, N.P. Cler. Dom. Infer. Convocat.</note>
+                  <note>In three columns.</note>
+                  <note>Imperfect: creased with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Province of Canterbury. --  Convocation --  Early works to 1800.</term>
+               <term>Church of England --  Clergy --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179146:1" rendition="simple:additions"/>
+            <head>A True and Exact LIST O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> THE MEMBERS of both Houſes of this preſent <hi>CONVOCATION,</hi> Summon'd to meet on the Sixth Day of <hi>November, A. D.</hi> 1689. in the C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>APTER-HOUSE at St. <hi>Paul</hi>'s, and from thence ad<g ref="char:EOLhyphen"/>journed to <hi>Henry</hi> the VII's CHAPPEL at <hi>Weſtminſter,</hi> to the Twentieth Day of the ſame Month.</head>
+            <list>
+               <head>The NAMES of the Biſhop or Members of the <g ref="char:V">Ʋ</g>pper Houſe.</head>
+               <item>
+                  <hi>HEnry,</hi> Lord Biſhop of <hi>London,</hi> Preſiden<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <hi>Peter,</hi> Lord Biſhop of <hi>Wincheſter.</hi>
+               </item>
+               <item>
+                  <hi>Herbert,</hi> Lord Biſhop of <hi>Hereford.</hi>
+               </item>
+               <item>
+                  <hi>Thomas,</hi> Lord Biſhop of <hi>Lichfield</hi> and <hi>Cove<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</hi>
+               </item>
+               <item>
+                  <hi>Thomas,</hi> Lord Biſhop of <hi>Lincoln.</hi>
+               </item>
+               <item>
+                  <hi>William,</hi> Lord Biſhop of <hi>Landaffe.</hi>
+               </item>
+               <item>
+                  <hi>William,</hi> Lord Biſhop of St. <hi>Aſaph.</hi>
+               </item>
+               <item>
+                  <hi>Thomas,</hi> Lord Biſhop of <hi>Rocheſter.</hi>
+               </item>
+               <item>
+                  <hi>Jonathan,</hi> Lord Biſhop of <hi>Exeter.</hi>
+               </item>
+               <item>
+                  <hi>Thomas,</hi> Lord Biſhop of St. <hi>Davids.</hi>
+               </item>
+               <item>
+                  <hi>Gilbert,</hi> Lord Biſhop of <hi>Salisbury.</hi>
+               </item>
+               <item>
+                  <hi>Humphrey,</hi> Lord Biſhop of <hi>Bangor.</hi>
+               </item>
+               <item>
+                  <hi>Edward,</hi> Lord Biſhop of <hi>Worceſter.</hi>
+               </item>
+               <item>
+                  <hi>Simon,</hi> Lord Biſhop of <hi>Chicheſter.</hi>
+               </item>
+               <item>
+                  <hi>Gilbert,</hi> Lord Biſhop of <hi>Briſtol.</hi>
+               </item>
+            </list>
+            <div type="part">
+               <head>The NAMES of the Inferior Cle<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> or Members of the Lower Houſe.</head>
+               <list>
+                  <head>Canterbury.</head>
+                  <item>
+                     <hi>John Tillotſon,</hi> D. D. then Dean of <hi>Canterbury,</hi> now Dean of St. <hi>Paul's, London.</hi>
+                  </item>
+                  <item>
+                     <hi>—</hi> Proctor for the Chapter.</item>
+                  <item>
+                     <hi>John Batteley,</hi> D. D. Archdeacon of <hi>Canterbury.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head> Proctors for the Clergy.</head>
+                        <item>
+                           <hi>George Thorpe,</hi> D. D.</item>
+                        <item>
+                           <hi>John Cooke,</hi> A. M.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>London.</head>
+                  <item>
+                     <hi>John Tillotſon,</hi> D. D. now Dean of St. <hi>Paul</hi>'s.</item>
+                  <item>
+                     <hi>William Stanley,</hi> D. D. Proctor for the Chapter.</item>
+                  <item>
+                     <hi>Thomas Teniſon,</hi> D. D. Archd. of <hi>London.</hi>
+                  </item>
+                  <item>
+                     <hi>John Goodman,</hi> D. D. Archd. of <hi>Eſſex.</hi>
+                  </item>
+                  <item>
+                     <hi>Charles Alſton,</hi> D. D. Archd. of <hi>Middleſex.</hi>
+                  </item>
+                  <item>
+                     <hi>Will. Beveridge,</hi> D. D. Archd. of <hi>Colcheſter.</hi>
+                  </item>
+                  <item>
+                     <hi>John Cole,</hi> A. M. Archd. of St. <hi>Albans.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Proctors for the Clergy.</head>
+                        <item>
+                           <hi>Gregory Haſcard,</hi> D.D.</item>
+                        <item>
+                           <hi>Robert Grove,</hi> D. D.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Weſtminſter.</head>
+                  <item>
+                     <hi>Thomas</hi> Ld. Biſhop of <hi>Rocheſter,</hi> Dean of <hi>Weſtminſter.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Pelling,</hi> D. D. Proctor for the Chapter.</item>
+                  <item>
+                     <hi>Richard Busby,</hi> D. D. Archdeacon of <hi>Weſtminſter.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Wincheſter.</head>
+                  <item>
+                     <hi>Richard Meggott,</hi> D. D. Dean of <hi>Winton.</hi>
+                  </item>
+                  <item>
+                     <hi>William Hawkins,</hi> D. D. Proctor for the Chapter.</item>
+                  <item>
+                     <hi>Tho. Clutterbuck,</hi> D. D. Archd. of <hi>Wincheſter.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Sayer,</hi> D. D. Archd. of <hi>Surrey.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head> Proctors for the Clergy.</head>
+                        <item>
+                           <hi>William Harriſon,</hi> D.D.</item>
+                        <item>
+                           <hi>George Hooper,</hi> D. D.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Hereford.</head>
+                  <item>
+                     <hi>George Benſon,</hi> D. D. Dean of <hi>Hereford.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Rogers,</hi> D. D. Proctor for the Chapter.</item>
+                  <item>
+                     <hi>Samuel Benſon,</hi> A. M. Archd. of <hi>Hereford.</hi>
+                  </item>
+                  <item>
+                     <hi>Adam Ottley,</hi> A. M. Archd. of <hi>Salop.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Proctors for the Clergy.</head>
+                        <item>
+                           <hi>William Johnſon,</hi> D. D</item>
+                        <item>
+                           <hi>Richard Bulkley,</hi> A M</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>
+                     <hi>Lichfield</hi> and <hi>Coventry.</hi>
+                  </head>
+                  <item>
+                     <hi>Lancelot Addiſon,</hi> D. D. Dean of <hi>Lichfield.</hi>
+                  </item>
+                  <item>
+                     <hi>John Willes,</hi> D. D. Proctors for the Chapter.</item>
+                  <item>
+                     <hi>Lancelot Addiſon,</hi> D.D. Archd of <hi>Coventry.</hi>
+                  </item>
+                  <item>
+                     <hi>Fran. Aſhenhurſt,</hi> A.M Archd of <hi>Darby.</hi>
+                  </item>
+                  <item>
+                     <gap reason="blank" extent="1 span">
+                        <desc>〈1 span left blank〉</desc>
+                     </gap> Archd of <hi>Stafford.</hi>
+                  </item>
+                  <item>
+                     <gap reason="blank" extent="1 span">
+                        <desc>〈1 span left blank〉</desc>
+                     </gap> Archd of <hi>Salop.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head> Proctors for the Clergy.</head>
+                        <item>
+                           <hi>Barnabas Poole,</hi> A. M.</item>
+                        <item>
+                           <hi>Jo. Kimberley,</hi> A. M.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Wolverhampton.</head>
+                  <item>
+                     <hi>No Return.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Norwich</head>
+                  <item>
+                     <hi>John Sharpe,</hi> D. D. then Dean of <hi>Norwich,</hi> now Dean of <hi>Canterbury.</hi>
+                  </item>
+                  <item>
+                     <hi>Nathaniel Hodges,</hi> A. M. Proctor for the Chapter.</item>
+                  <item>
+                     <hi>John Conant,</hi> D. D. Archd. of <hi>Norwich.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Reynolds,</hi> D. D. Archd. of <hi>Norfolk.</hi>
+                  </item>
+                  <item>
+                     <hi>John Spencer,</hi> D. D. Archd. of <hi>Sudbury.</hi>
+                  </item>
+                  <item>
+                     <hi>Hum. Prideaux,</hi> D. D. Archd. of <hi>Suffolk.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Proctors for the Clergy.</head>
+                        <item>
+                           <hi>John Connald,</hi> A. M. </item>
+                        <item>
+                           <hi>John Eachard,</hi> D. D.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Lincoln.</head>
+                  <item>
+                     <hi>Daniel Brevint,</hi> D. D. Dean of <hi>Lincoln.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>
+                           <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ro<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ors for the Chapter.</head>
+                        <item>
+                           <hi>John Inet,</hi> A. M.</item>
+                        <item>
+                           <hi>Samuel Fuller,</hi> D. D.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Thomas Oldys.</hi> L. B <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rchd of <hi>Lincoln.</hi>
+                  </item>
+                  <item>
+                     <hi>John Hutton,</hi> A. M. <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rchd of <hi>Stow.</hi>
+                  </item>
+                  <item>
+                     <hi>Byron Eaton,</hi> D. D. <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rchd of <hi>Leiceſter.</hi>
+                  </item>
+                  <item>
+                     <hi>John Hamond,</hi> D. D. <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rchd of <hi>Bucks.</hi>
+                  </item>
+                  <item>
+                     <hi>John Gery,</hi> L. D. <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rchd of <hi>Huntington.</hi>
+                  </item>
+                  <item>
+                     <hi>John Skelton,</hi> A. M. <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rchd of <hi>Bedford.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>P<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>octo<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s for the Clergy.</head>
+                        <item>
+                           <hi>James Gardiner,</hi> D. D. </item>
+                        <item>
+                           <hi>Robert Edwards,</hi> B. D</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>
+                     <hi>La<gap reason="illegible" extent="6 letters">
+                           <desc>••••••</desc>
+                        </gap>e.</hi>
+                  </head>
+                  <item>
+                     <hi>Henry Bull,</hi> D. D. A<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>deacon of <hi>Landaffe.</hi>
+                  </item>
+                  <item>
+                     <hi>Jonathan Edwards,</hi> Pr<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>tor for the Chapter.</item>
+                  <item>
+                     <list>
+                        <head>Proctors for the Clergy.</head>
+                        <item>
+                           <hi>Will. Frampton,</hi> A. M.</item>
+                        <item>
+                           <hi>— Jenkins,</hi> A. M.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>St. <hi>A<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ph.</hi>
+                  </head>
+                  <item>
+                     <hi>George Bright,</hi> D. D. Dean of St. <hi>Aſaph.</hi>
+                  </item>
+                  <item>
+                     <hi>Samuel Davies,</hi> L. D. Proctor for the Chapter.</item>
+                  <item>
+                     <hi>William</hi> Ld. Bp. of St. <hi>Aſaph,</hi> Archd. of St. <hi>Aſaph.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Proctors for the Clergy.</head>
+                        <item>
+                           <hi>Griffin Lloyd,</hi> B. D.</item>
+                        <item>
+                           <hi>John Edwards,</hi> A. M.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Gloceſter.</head>
+                  <item>
+                     <hi>William Jane,</hi> D. D. Dean of <hi>Gloceſter, Prolocutor.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Duke,</hi> A. M. Proctor for the Chapter.</item>
+                  <item>
+                     <hi>Thomas Hide,</hi> D. D. Archdeacon of <hi>Gloceſter.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Proctors for the Clergy.</head>
+                        <item>
+                           <hi>Abraha. Gregory,</hi> D.D.</item>
+                        <item>
+                           <hi>Richard Parſons,</hi> L. D</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Ely.</head>
+                  <item>
+                     <hi>John Spencer,</hi> D. D. Dean of <hi>Ely.</hi>
+                  </item>
+                  <item>
+                     <hi>John Moore,</hi> D. D. Proctor for the Chapter.</item>
+                  <item>
+                     <hi>William Saywell,</hi> D. D. Archdeacon of <hi>Ely.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Proctors for the Clergy.</head>
+                        <item>
+                           <hi>Samuel Blith,</hi> D. D. </item>
+                        <item>
+                           <hi>Nicholas Gouge,</hi> A. M.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Rocheſter.</head>
+                  <item>
+                     <hi>Henry <g ref="char:V">Ʋ</g>llock,</hi> D. D. Dean of <hi>Rocheſter.</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Brevall,</hi> D. D. Proctor for the Chapter.</item>
+                  <item>
+                     <hi>Thomas Plume,</hi> D. D. Archdeacon of <hi>Rocheſter.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Proctors for the Clergy.</head>
+                        <item>
+                           <hi>Richard Holden,</hi> A. M. </item>
+                        <item>
+                           <hi>Joſeph Tates,</hi> A. M.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>
+                     <hi>Bath</hi> and <hi>Wells.</hi>
+                  </head>
+                  <item>
+                     <hi>Ralph Bathurſt,</hi> M. D. Dean of <hi>Bath</hi> and <hi>Wells.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Busby,</hi> D. D. Proctor for the Chapter.</item>
+                  <item>
+                     <hi>Edwin Sandys,</hi> A. M. Archd. of <hi>Wells.</hi>
+                  </item>
+                  <item>
+                     <gap reason="blank" extent="1 span">
+                        <desc>〈1 span left blank〉</desc>
+                     </gap> Archd. of <hi>Bath.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Naple,</hi> B. D. Archd. of <hi>Taunton.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Proctors for the Clergy.</head>
+                        <item>
+                           <hi>William Clement,</hi> A. M.</item>
+                        <item>
+                           <hi>Giles Pooley,</hi> A. M.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Peterborough.</head>
+                  <item>
+                     <hi>Richard Kidder,</hi> D. D. Dean of <hi>Peterborough.</hi>
+                  </item>
+                  <item>
+                     <hi>John Patrick,</hi> A. M. Proctor for the Chapter.</item>
+                  <item>
+                     <hi>Thomas Woolſey,</hi> D. D. Archdeacon of <hi>Northampton.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Proctors for the Clergy.</head>
+                        <item>
+                           <hi>Matthew Hutton,</hi> B.D.</item>
+                        <item>
+                           <hi>Nath. Whalley,</hi> A. M.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Exeter.</head>
+                  <item>
+                     <hi>Richard Anneſley,</hi> D. D. Dean of <hi>Exon.</hi>
+                  </item>
+                  <item>
+                     <hi>George Hooper,</hi> D. D. Proctor for the Chapter.</item>
+                  <item>
+                     <hi>Edward Lake,</hi> D. D. Archd. of <hi>Exeter.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Drew.</hi> A. M. Archd. of <hi>Cornwall.</hi>
+                  </item>
+                  <item>
+                     <hi>Fra. Fulwood,</hi> D. D. Archd. of <hi>Totnes.</hi>
+                  </item>
+                  <item>
+                     <hi>William Read,</hi> A. M. Archd. of <hi>Barum.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Proctors for the Clergy.</head>
+                        <item>
+                           <hi>John James,</hi> D. D.</item>
+                        <item>
+                           <hi>Tho. Long,</hi> Senior B.D.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>St. <hi>Davids.</hi>
+                  </head>
+                  <item>
+                     <hi>John Ellis,</hi> D. D <hi>Praecentor.</hi>
+                  </item>
+                  <item>
+                     <hi>Spencer Lucy,</hi> A. M. Proctor for the Chapter.</item>
+                  <item>
+                     <hi>Timothy Halton,</hi> D. D. Archd. of St. <hi>Davids.</hi>
+                  </item>
+                  <item>
+                     <hi>George Owen,</hi> D. D. Archd. of <hi>Carmarthen.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Stainoe,</hi> B. D. Archd. of <hi>Brecknock.</hi>
+                  </item>
+                  <item>
+                     <hi>John Williams,</hi> A. M. Archd. of <hi>Cardigan.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Proctors for the Clergy.</head>
+                        <item>
+                           <hi>Thomas Sandys,</hi> A. M.</item>
+                        <item>
+                           <hi>William Powell,</hi> A. M.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Oxford.</head>
+                  <item>
+                     <hi>Henry Aldrich,</hi> D. D. Dean of <hi>Chriſt-Church.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Smith,</hi> D. D. Proctor for the Chapter.</item>
+                  <item>
+                     <hi>Timothy Halton,</hi> D. D. Archdeacon of <hi>Oxon.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head> Proctors for the Clergy.</head>
+                        <item>
+                           <hi>John Mill,</hi> D. D.</item>
+                        <item>
+                           <hi>Henry Maurice,</hi> D. D.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Salisbury.</head>
+                  <item>
+                     <hi>Thomas Price,</hi> D. D. Dean of <hi>Sarum.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Woodward,</hi> L. D. Proctor for the Chapter.</item>
+                  <item>
+                     <hi>William Richards,</hi> B.D. Archd. of <hi>Sarum.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Lambert,</hi> D D. Archd. of <hi>Berks.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Ward,</hi> L. D. Archd. of <hi>Wilts.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head> Proctors for the Clergy.</head>
+                        <item>
+                           <hi>John Younger,</hi> D. D.</item>
+                        <item>
+                           <hi>Thomas Wyat,</hi> D. D.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Windſor.</head>
+                  <item>
+                     <hi>No Return.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Bangor.</head>
+                  <item>
+                     <hi>John Jones,</hi> D. D. Dean of <hi>Bangor.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Foulks,</hi> A. M. Proctor for the Chapter.</item>
+                  <item>
+                     <gap reason="blank" extent="1 span">
+                        <desc>〈1 span left blank〉</desc>
+                     </gap> Archd. of <hi>Bangor.</hi>
+                  </item>
+                  <item>
+                     <hi>Humfrey,</hi> Ld. Bp. of <hi>Bangor.</hi> Archd. of <hi>Angleſey.</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Lloyd,</hi> A. M. Archd. of <hi>Merioneth.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Proctors for the Clergy.</head>
+                        <item>
+                           <hi>Robert Wynne,</hi> A. M.</item>
+                        <item>
+                           <hi>John Williams,</hi> A. M.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Worceſter.</head>
+                  <item>
+                     <hi>George Hicks,</hi> D. D. Dean of <hi>Worceſter.</hi>
+                  </item>
+                  <item>
+                     <hi>Ralph Battle,</hi> A. M. Proctor for the Chapter.</item>
+                  <item>
+                     <hi>John Fleetwood,</hi> A. M. Archdeacon of <hi>Worceſter.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Proctors for the Clergy.</head>
+                        <item>
+                           <hi>John Jephcott,</hi> D. D.</item>
+                        <item>
+                           <hi>Thomas Hodge,</hi> A. M.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Chicheſter.</head>
+                  <item>
+                     <hi>Francis Hawkins,</hi> D. D. Dean of <hi>Chicheſter.</hi>
+                  </item>
+                  <item>
+                     <hi>Zachary Cradock,</hi> D. D. Proctor for the Chapter.</item>
+                  <item>
+                     <hi>Joſias Pleydell,</hi> A. M. Archd. of <hi>Chicheſter.</hi>
+                  </item>
+                  <item>
+                     <hi>Joſeph Sayer,</hi> B. D. Archd. of <hi>Lewes.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Proctors for the Clergy.</head>
+                        <item>
+                           <hi>Conyers Richardſon,</hi> A. M. </item>
+                        <item>
+                           <hi>David Morton,</hi> D. D.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Briſtol.</head>
+                  <item>
+                     <hi>William Levett,</hi> D. D. Dean of <hi>Briſtol.</hi>
+                  </item>
+                  <item>
+                     <hi>Stephen Creſpion,</hi> A. M. Proctor for the Chapter.</item>
+                  <item>
+                     <hi>John Feilding,</hi> D. D. Archdeacon of <hi>Dorſet.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Proctors for the Clergy.</head>
+                        <item>
+                           <hi>Roger Mander,</hi> D. D.</item>
+                        <item>
+                           <hi>Rich. Roderick,</hi> B. D.</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <closer>
+               <signed>
+                  <hi>Jo. CHASE,</hi> N. P. Cler. Dom. Infer. Convocat.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Benj. Tooke. Nov.</hi> 30. 1689.</p>
+            <pb facs="tcp:179146:2" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
